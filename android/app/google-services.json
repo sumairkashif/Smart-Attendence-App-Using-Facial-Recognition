@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "701344127151",
+    "firebase_url": "https://ulearning-app-705b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ulearning-app-705b0",
+    "storage_bucket": "ulearning-app-705b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701344127151:android:fbcd533406718c318e1c5a",
+        "android_client_info": {
+          "package_name": "com.example.facemark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7EdCUJCxSCnMjsoGB7O2vh4sAPPj_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701344127151:android:eff0d075a6dc2a1c8e1c5a",
+        "android_client_info": {
+          "package_name": "com.example.ulearning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7EdCUJCxSCnMjsoGB7O2vh4sAPPj_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
