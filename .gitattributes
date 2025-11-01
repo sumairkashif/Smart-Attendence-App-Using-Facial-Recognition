@@ -1,0 +1,12 @@
+# Dart files ko detect karein
+*.dart linguist-detectable=true
+*.dart linguist-language=Dart
+
+# Generated files ko ignore karein
+*.html linguist-generated=true
+*.css linguist-generated=true
+*.js linguist-generated=true
+
+# Documentation ko ignore karein
+*.md linguist-documentation=true
+docs/* linguist-documentation=true
